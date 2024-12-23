@@ -1,0 +1,8 @@
+/remote/.vs/remote/v16/*.suo
+/remote/.vs/remote/v16/*.db
+/remote/.vs/remote/v16/ipch/55dca837094c7631.ipch
+/remote/remoteclient/remoteclient.vcxproj.user
+/remote/remoteclient/res/*.rc2
+/remote/remoteclient/res/*.ico
+/remote/remote/*.user
+/remote/remoteclient/*.aps
