@@ -6,3 +6,7 @@
 /remote/remoteclient/res/*.ico
 /remote/remote/*.user
 /remote/remoteclient/*.aps
+/remote/Debug
+/remote/remote/Debug
+/remote/remoteclient/Debug
+/remote/.vs/remote/v16
